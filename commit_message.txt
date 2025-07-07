@@ -1,1 +1,1 @@
-Replace 'Oriental Medicine' with 'Eastern Medicine'
+Add favicon to all HTML pages
