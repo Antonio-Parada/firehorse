@@ -45,12 +45,9 @@ main {
     background-color: #800000; /* Maroon */
 }
 
-#hero h2 {
-    color: white;
-}
-
+#hero h2,
 #hero p {
-    color: white !important;
+    color: white;
 }
 
 .cta-button {
