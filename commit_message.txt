@@ -1,1 +1,1 @@
-Fix GitHub Actions deployment permissions
+Add Bryan's profile picture
