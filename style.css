@@ -111,3 +111,31 @@ footer #contact {
 footer p {
     margin: 0;
 }
+
+/* Articles Page Specific Styles */
+.article-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.article-preview {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.article-preview h3 {
+    margin-top: 0;
+}
+
+.article-preview a {
+    color: #8B0000; /* Dark Red */
+    text-decoration: none;
+}
+
+.article-preview a:hover {
+    text-decoration: underline;
+}
