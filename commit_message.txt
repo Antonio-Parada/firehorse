@@ -1,1 +1,1 @@
-Replace testimonial names with initials as placeholders
+Remove 'most recently' from Bryan's bio
