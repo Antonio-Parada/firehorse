@@ -1,0 +1,106 @@
+/* General Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #c9191f; /* Red */
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+/* Hero Section */
+#hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #ce6a6b; /* Lighter Red */
+}
+
+#hero h2 {
+    color: #7d3b17; /* Brown */
+}
+
+.cta-button {
+    background-color: #fab004; /* Yellow */
+    color: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* About Section */
+#about {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#about img {
+    max-width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+/* Services Section */
+#services {
+    background-color: #d42c34; /* Darker Red */
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Conditions Section */
+#conditions {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Testimonials Section */
+#testimonials {
+    background-color: #ce6a6b; /* Lighter Red */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #7d3b17; /* Brown */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
