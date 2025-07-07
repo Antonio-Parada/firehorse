@@ -1,1 +1,1 @@
-Fix logo paths
+Remove contact form and make phone numbers clickable
