@@ -45,8 +45,8 @@ main {
     background-color: #800000; /* Maroon */
 }
 
-#hero h2 {
-    color: white; /* Changed from Brown */
+#hero p {
+    color: white;
 }
 
 .cta-button {
@@ -95,7 +95,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: #7d3b17; /* Brown */
+    background-color: #556B2F; /* Dark Olive Green */
     color: white;
     text-align: center;
     padding: 20px;

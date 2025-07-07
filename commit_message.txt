@@ -1,1 +1,1 @@
-Adjust text colors for better contrast
+Adjust hero paragraph color and footer styling
