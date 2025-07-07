@@ -1,1 +1,1 @@
-Reorder office locations and update header color
+Adjust color palette for a more holistic feel

@@ -50,7 +50,7 @@ main {
 }
 
 .cta-button {
-    background-color: #fab004; /* Yellow */
+    background-color: #B8860B; /* DarkGoldenrod */
     color: #333;
     padding: 10px 20px;
     text-decoration: none;
@@ -73,7 +73,7 @@ main {
 
 /* Services Section */
 #services {
-    background-color: #d42c34; /* Darker Red */
+    background-color: #556B2F; /* Dark Olive Green */
     color: white;
     padding: 20px;
     margin-bottom: 20px;
