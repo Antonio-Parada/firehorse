@@ -1,4 +1,4 @@
-# Future Plans for firehorse.site
+# Future Plans for firehorseacupuncture.com
 
 This document outlines future development and SEO strategy for the Fire Horse Acupuncture website.
 
@@ -6,7 +6,7 @@ This document outlines future development and SEO strategy for the Fire Horse Ac
 
 ### 1. Blog & Content Hub
 
-- **Subdomain:** Set up a dedicated blog at `blog.firehorse.site`.
+- **Subdomain:** Set up a dedicated blog at `blog.firehorseacupuncture.com`.
 - **Platform:** Host the articles created in the `/articles` directory on this subdomain.
 - **Content Cadence:** Regularly publish new articles on topics relevant to acupuncture, holistic health, and wellness to build authority and attract organic traffic.
 - **Keyword Targeting:** Conduct keyword research to target specific search terms for each new article.
@@ -18,7 +18,7 @@ This document outlines future development and SEO strategy for the Fire Horse Ac
 
 ### 3. Backlinking Strategy
 
-- **Guest Posting:** Write guest posts for relevant health and wellness blogs with a link back to `firehorse.site` or a specific article.
+- **Guest Posting:** Write guest posts for relevant health and wellness blogs with a link back to `firehorseacupuncture.com` or a specific article.
 - **Local SEO:** Get listed in local online directories and publications to build local search authority.
 - **HARO (Help a Reporter Out):** Respond to journalist queries on topics related to acupuncture and wellness to earn high-quality backlinks.
 
@@ -26,9 +26,9 @@ This document outlines future development and SEO strategy for the Fire Horse Ac
 
 ### 1. Custom Domain
 
-- **Primary Domain:** Configure the main website to be served from `firehorse.site`.
+- **Primary Domain:** Configure the main website to be served from `firehorseacupuncture.com`.
 - **DNS Setup:** Point the domain's DNS records to GitHub Pages.
-- **CNAME File:** Add a `CNAME` file to the repository with `firehorse.site`.
+- **CNAME File:** Add a `CNAME` file to the repository with `firehorseacupuncture.com`.
 
 ### 2. Analytics
 
