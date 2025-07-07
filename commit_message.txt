@@ -1,1 +1,1 @@
-Add articles section
+Fix GitHub Actions deployment permissions
