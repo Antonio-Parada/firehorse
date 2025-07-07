@@ -1,1 +1,1 @@
-Ensure legibility of all text in hero section
+Style footer contact section

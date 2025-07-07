@@ -102,6 +102,12 @@ footer {
     padding: 20px;
 }
 
+footer #contact {
+    background-color: #556B2F; /* Dark Olive Green */
+    padding: 20px;
+    text-align: center;
+}
+
 footer p {
     margin: 0;
 }
