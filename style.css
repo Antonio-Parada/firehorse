@@ -96,20 +96,22 @@ main {
 
 /* Footer */
 footer {
-    background-color: #556B2F; /* Dark Olive Green */
-    color: white;
+    background-color: transparent; /* No background for footer itself */
+    color: #333; /* Default text color */
     text-align: center;
     padding: 20px;
-}
-
-footer #contact {
-    background-color: #556B2F; /* Dark Olive Green */
-    padding: 20px;
-    text-align: center;
 }
 
 footer p {
     margin: 0;
+}
+
+#contact {
+    background-color: #556B2F; /* Dark Olive Green */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px; /* Add some space above the contact section */
 }
 
 /* Articles Page Specific Styles */

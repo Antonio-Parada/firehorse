@@ -1,1 +1,1 @@
-Remove special offer and add basic responsiveness
+Restructure and style footer contact section
