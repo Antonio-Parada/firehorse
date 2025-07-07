@@ -1,1 +1,1 @@
-Adjust hero paragraph color and footer styling
+Fix illegible text in hero section
