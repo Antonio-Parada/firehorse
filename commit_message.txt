@@ -1,1 +1,1 @@
-Add Bryan's profile picture
+Fix logo paths
