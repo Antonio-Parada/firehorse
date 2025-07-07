@@ -139,3 +139,14 @@ footer p {
 .article-preview a:hover {
     text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .article-list {
+        grid-template-columns: 1fr;
+    }
+}

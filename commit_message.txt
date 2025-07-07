@@ -1,1 +1,1 @@
-Enhance articles page layout and styling
+Remove special offer and add basic responsiveness
