@@ -1,1 +1,1 @@
-Force white color for hero paragraph text
+Refine Bryan's bio sentence
