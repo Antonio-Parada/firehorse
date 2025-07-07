@@ -1,1 +1,1 @@
-Adjust color palette for a more holistic feel
+Adjust text colors for better contrast

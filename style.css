@@ -46,12 +46,12 @@ main {
 }
 
 #hero h2 {
-    color: #7d3b17; /* Brown */
+    color: white; /* Changed from Brown */
 }
 
 .cta-button {
     background-color: #B8860B; /* DarkGoldenrod */
-    color: #333;
+    color: white;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -91,7 +91,7 @@ main {
     background-color: #800000; /* Maroon */
     padding: 20px;
     margin-bottom: 20px;
-}
+    color: white;
 
 /* Footer */
 footer {
