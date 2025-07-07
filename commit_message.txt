@@ -1,1 +1,1 @@
-Remove contact form and make phone numbers clickable
+Replace 'Oriental Medicine' with 'Eastern Medicine'
