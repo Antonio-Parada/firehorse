@@ -49,6 +49,10 @@ main {
     color: white;
 }
 
+#hero p {
+    color: white;
+}
+
 .cta-button {
     background-color: #B8860B; /* DarkGoldenrod */
     color: white;

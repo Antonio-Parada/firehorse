@@ -1,1 +1,1 @@
-Fix illegible text in hero section
+Fix illegible paragraph text in hero section
