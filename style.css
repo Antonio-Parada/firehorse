@@ -50,7 +50,7 @@ main {
 }
 
 #hero p {
-    color: white;
+    color: white !important;
 }
 
 .cta-button {

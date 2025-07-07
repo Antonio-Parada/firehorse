@@ -1,1 +1,1 @@
-Fix illegible paragraph text in hero section
+Force white color for hero paragraph text
