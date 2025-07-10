@@ -3,9 +3,26 @@ Allow: /
 
 # Sitemap
 Sitemap: https://firehorseacupuncture.com/sitemap.xml
+Sitemap: https://firehorseacupuncture.com/blog-sitemap.xml
+
+# Explicitly allow article crawling
+Allow: /articles/
+
+# Crawl delay (be respectful to search engines)
+Crawl-delay: 1
 
 # Disallow any development files
 Disallow: /commit_message.txt
 Disallow: /FUTURE_PLANS.md
 Disallow: /*.txt$
 Disallow: /*.md$
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
