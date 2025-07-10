@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://firehorseacupuncture.com/sitemap.xml
+
+# Disallow any development files
+Disallow: /commit_message.txt
+Disallow: /FUTURE_PLANS.md
+Disallow: /*.txt$
+Disallow: /*.md$
